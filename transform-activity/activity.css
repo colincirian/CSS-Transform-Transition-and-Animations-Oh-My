@@ -1,3 +1,4 @@
 main {
-
+    transform-origin: center;
+    transform: rotate(-10deg)
 }
